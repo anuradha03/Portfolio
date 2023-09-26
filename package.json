@@ -1,7 +1,7 @@
 {
   "name": "anuradha-portfolio",
   "version": "0.1.0",
-  "homepage": "https://anuradha03.github.io",
+  "homepage": "https://anuradha03.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
