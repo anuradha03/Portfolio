@@ -12,7 +12,7 @@ export const Bio = {
       "As a grad student with a passion for software engineering, I bring fresh perspectives and a solid foundation in computer science to the table. I am eager to contribute my coding skills, problem-solving abilities, and commitment to continuous learning to a dynamic software development team. Let's collaborate to build innovative solutions that drive positive impact.",
     github: "https://github.com/anuradha03",
     resume:
-      "https://drive.google.com/file/d/1XDZXSInbp0pE2b5mDD06dNN6QyVp-G8v/view?usp=sharing",
+      "https://drive.google.com/file/d/18zAcdxwMK58u3otT4AmbMlcXVou3_Atj/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/anuradhakrishnaratnam/",
     twitter: "https://twitter.com/annuuu0301",
     insta: "https://www.instagram.com",
